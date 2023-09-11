@@ -94,12 +94,12 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: danieldamilare/danieldamilare.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOKR3d_w
+    repo: danieldamilare/giscuss-discuss # <gh-username>/<repo>
+    repo_id: R_kgDOKSBASQ
     category: Announcements
-    category_id: DIC_kwDOKR3d_84CZOV
+    category_id: DIC_kwDOKRSBA5c4CZOZV
     mapping: pathname # optional, default to 'pathname'
-    input_position: bottom # optional, default to 'bottom'
+    input_position: up # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
