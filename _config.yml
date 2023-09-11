@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   Writings on computer science and progamming
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://www.danieldamlare.me"
+url: "https://www.danieldamilare.me"
 
 github:
-  username: daniedamilare # change to your github username
+  username: danieldamilare # change to your github username
 
 twitter:
   username: DanielJose91462 # change to your twitter username
