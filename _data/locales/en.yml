@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  when: on
   written_by: By
   posted: Posted
   updated: Updated

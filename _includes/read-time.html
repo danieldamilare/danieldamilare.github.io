@@ -27,7 +27,7 @@
   <em>
     {{- read_time -}}
     {{ ' ' }}
-    {{- site.data.locales[include.lang].post.read_time.unit -}}
+    {{- site.data.locales[include.lang].post.read_time.unit | default: "min"  -}}
   </em>
   {%- if include.prompt -%}
     {%- assign _prompt_words = read_prompt | number_of_words: 'auto' -%}
