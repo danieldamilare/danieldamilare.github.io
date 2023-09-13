@@ -4,7 +4,6 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-## About
 Hi... I’m Daniel, and I’m thrilled to welcome you to my corner of the internet.If you’re here, you probably share a passion for the world of software development and computer science
 
 I’m a software developer with interest in compilers, operating system and computer networks and algorithm design.
