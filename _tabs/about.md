@@ -11,7 +11,7 @@ I mostly work with C, C++, python, javascript and Go.
 
 This blog is my platform to share my thoughts, insights, and things I’ve learnt or found interesting. Let’s explore, learn, and grow together.
 
-You can find some of my projects on [github](https://github.com/danieldamilare) and also check out my *resume*.
+You can find some of my projects on [github](https://github.com/danieldamilare) or check out my *resume*.
 
 > If you have any questions, ideas, or topics you’d like [me](mailto:danieldamilare20@gmail.com) to cover, don’t hesitate to reach out.
 {: .prompt-tip }
