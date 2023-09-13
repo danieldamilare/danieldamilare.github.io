@@ -1,11 +1,11 @@
 ---
-title: Studying Compiler
+title: Embarking on a Compiler Learning Journey 
 date: 2023-09-12 8:07:47 +01000
 categories: [compiler, learning]
 tags: [compiler, parser] 
 --- 
 
-## Studying Compiler
+## Embarking on a Compiler Learning Journey
 I've always been fascinated by how programming languages are created. This concept used to feel like magic to me when I was only programming in Python and JavaScript. Last year, I decided to learn C and was introduced to some low-level programming concepts. I experienced many "aha!" moments on concepts I failed to understand in Python. So, I decided to study compiler design. I undertook an initial exploration through Austin Henley's [Let's Make a Teeny Tiny Compiler](https://austinhenley.com/blog/teenytinycompiler3.html) series,  where I successfully wrote a [simple compiler](https://github.com/danieldamilare/simple_compiler) in C that compiles a dialect of BASIC into C. Additionally, I wrote a [simple math expression evaluator](https://github.com/danieldamilare/math_evaluator). 
 
 
