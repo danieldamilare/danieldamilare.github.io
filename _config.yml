@@ -107,6 +107,13 @@ comments:
 #
 #
 #
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+
 assets:
   self_host:
     enabled: # boolean, keep empty means false
