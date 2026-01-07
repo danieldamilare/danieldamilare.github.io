@@ -17,7 +17,7 @@ I also began Competitive programming as a sport last year.
 
 **Financial improvement**: In addition to technical achievement, my finances also improved last year, even though I ended the year in debt. I was able to spend money to buy things I needed like an earbud, new clothes and more. This year I planned to get out of debt and start saving.
 
-## Programming
+# Programming
 On programming, I want to develop more aggressive this year. I'm focusing on concurrency, system programming, and backend engineering.  I divide the aspect of my development into three  areas: reading of technical books, competitive programming, system programming.
 
 ### Reading of Technical Books
@@ -30,11 +30,11 @@ I plan to read the following books this year
 ### Competitive Programming
 I began competitive programming last year, as a way to pass interview but I later enjoyed doing them, it absolutely improve my programing skill. I solved in total last year: 275 leetcode problems, 150 codeforces, 80 atcoder problems, 40 Usaco old training site problem, and also read Daniel Zagaro Algorithmic thinking. This year, I'm planning to drop leetcode for a while, and focus on the real competitive programming site (Codeforce and Atcoder). My goal this year is to reach an expert rank on codeforce. I am to be consistent throughout the year. I know the year has started, and I haven't done anything, but planning. I aim to use target practice. I found a site with problem based curriculum for CP. I will start by targeting my weak areas like Number theory and combinatorics, then greedy and math algorithms. 
 
-## System Programming
+### System Programming
 I registered for Btrust Bitcoin Open Source Software Programming, and which be starting from January 12, also I want to focus on developing more system programming skills, and building full projects. In a way, both the technical books I planned to read complement my system programming goals. 
 
 
-## Personal Development
+# Personal Development
 Last year was a year I focused a lot on technical goals. This year I want to make my focus more balanced, by focusing on not only on upskilling, but also on personal development. My personal development goal would encompass: Defeating Depression/Building Self esteem, Improving my Reading habits, Self Care (Skin Care and Eating Well, Dopamine Regulation, Sleep).
 
 ### Defeating Depression/ Building Self Esteem
